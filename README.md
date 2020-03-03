@@ -1,3 +1,3 @@
 # Book 1
-[Chapter 1]: /chapter1.html
-[Chapter 2]: /chapter2.html
+[Chapter 1]: https://github.com/chriskpeterson/dynamictest/edit/master/chapter1.md
+[Chapter 2]: https://github.com/chriskpeterson/dynamictest/edit/master/chapter2.md
