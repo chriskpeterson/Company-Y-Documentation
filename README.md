@@ -1,6 +1,6 @@
 # Phone X User Guide
 
-## [Chapter 1: Introduction](https://github.com/chriskpeterson/dynamictest/edit/master/chapter1.md)
+## [Chapter 1: Introduction](https://github.com/chriskpeterson/dynamictest/edit/master/chapter1.md) 
 In this chapter, we discuss X,Y, and Z.
 ### [Signing In to Your Phone](https://github.com/chriskpeterson/dynamictest/blob/master/topics/signing-in-phonex-teams.md)
 ### Locking Your Phone
