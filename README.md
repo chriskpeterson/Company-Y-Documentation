@@ -1,0 +1,2 @@
+# dynamictest
+work test
