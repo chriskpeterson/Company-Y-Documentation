@@ -1,2 +1,3 @@
 # Book 1
-## [topic1.html] Link to Topic
+## [Chapter 1]: chapter1.html
+## [Chapter 2]: chapter2.html
