@@ -12,6 +12,9 @@ This is what you need to get started with your phone. This section covers signin
 Customize your phone by adding a background, adjusting screen and sound settings, and doing other things.
 
 ### Update Your Configuration
+
+> **_NOTE:_**  Uploading this parameter to your phone causes the phone to reboot.
+
 1. Enter the following parameter.
 ```
 upPhone.enabled="1"
